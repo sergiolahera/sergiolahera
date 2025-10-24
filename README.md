@@ -19,12 +19,14 @@
 * Euclid: LODEEN and CODEEN 
 * Euclid: SDC workflow, pipelines, Redmine, CI/CD 
 * Devops: Docker, Jenkins, SonarQube, Pipelines, Elements, Grafana, DBView
+## ECSS Standards
+* ECSS-10C, -40C, -70C, -80C covering system engineering, software tools, data handling, and integrity assurance.
 ## System Engineering
-* GitLab, Trello, CMake, Scrum, Valgrind, Environments, Project Management, Software (Jira, Trello, Workfront, Sharepoint, etc.), LeXWARE, Nagios, GCP, slurm, AWS, SOAP, REST, fork, UML, Filezilla, Putty, Process Maker, JADE, Kubernets, Windows Server Management, Maple, Airflow, Kafka, Spark, TeamViewer, AnyDesk
+* GitLab, Trello, CMake, Scrum, Valgrind, Environments, Project Management, Software (Jira, Trello, Workfront, Sharepoint, etc.), LeXWARE, Nagios, GCP, slurm, AWS, Azure, SOAP, REST, fork, UML, Filezilla, Putty, Process Maker, JADE, Kubernets, Windows Server Management, Maple, Airflow, Kafka, Spark, TeamViewer, AnyDesk
 ## Data Formats
 * FITS, XML, HDF5, YAML, INI, JSON, GeoJSON, CSV, Web Tile Formats
 ## Embedded Systems
-* Matlab, NI LabView, RODOS, FreeRTOS, AVR Micro-controller Programming, Kyle uVision, System Workbench for STM32, KUKA Robot Programming,
+* Matlab, NI LabView, RODOS, FreeRTOS, AVR Micro-controller Programming, Kyle uVision, System Workbench for STM32, KUKA Robot Programming, Communication Protocols: UART, I2C, CAN, Serial
 ## Databases
 * ORACLE, PostgreSQL, MySQL, Cobra, Microsoft SQL Server, DATEV, BigQuery
 ## Code Editors
@@ -34,5 +36,15 @@
 ## Documents
 * Sphinx (Markdown & reStructuredText), Documentation (Doxygen), Overleaf, LATEX, Microsoft Office package: Microsoft Word, Excel, PowerPoint, Access
 ## Operating Systems
-Linux [RedHat, CentOS, Fedora, Xubuntu, Ubuntu], macOS, Windows ## Package Manager
+Linux [RedHat, CentOS, Fedora, Xubuntu, Ubuntu], macOS, Windows 
+## Package Manager
 * dnf, npm, flatpak, brew, tdnf, apt, snap, zypper, yum
+## Areas of specialization
+* Software Engineering (Software Developer, Embedded Software Developer)
+* Systems Engineering (Data Architecture, Data Modeling, Automation, AI [ML & DL, Vision Systems])
+* Research Engineer (Astrophysics [Astronomical Data, Weak Lensing] and Robotics [Control Systems, Simulations])
+* Data Processing Engineering
+* System Monitoring and Reporting
+## Additional tasks 
+* Server and Databases Management  
+* Communication & Network Operations
